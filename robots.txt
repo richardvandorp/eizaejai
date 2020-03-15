@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oopaipaec.basraven.nl/sitemap.xml
